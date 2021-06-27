@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10000838766",
+    "project_id": "onden-85a78",
+    "storage_bucket": "onden-85a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10000838766:android:5a9c654520c89724ddb67f",
+        "android_client_info": {
+          "package_name": "onden.app.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10000838766-i6hn4bk9dgv4494ra2411ojcfs4hgsmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onden.app.student",
+            "certificate_hash": "9671d36664b58c515ac4b6cb5c8521f58c257d91"
+          }
+        },
+        {
+          "client_id": "10000838766-nkfuri0mffvhinug7to53mm25qim0osp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9wdWe6pHGN8Bbg6taXIfEHD0E_GsDGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10000838766-nkfuri0mffvhinug7to53mm25qim0osp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
